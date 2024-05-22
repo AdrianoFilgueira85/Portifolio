@@ -6,7 +6,7 @@
    Status :construction:  Projeto em construção  :construction:
 </h4>
  <h2>Sobre</h2>
- <p>A criação deste portfólio foi um projeto pessoal que realizei com o objetivo de apresentar oa habilidades e  experiências adiquiridos em sala de aula. Este processo envolveu várias etapas Planejamento,,estruturação com o figma </h4>
+ <p>A criação deste portfólio foi um projeto pessoal que realizei com o objetivo de apresentar as habilidades e  experiências adiquiridos em sala de aula. Este processo envolveu as etapas de Planejamento e estruturação. o design foi construido no figma e o desenvolvimento no VisualCode. </h4>
 <ul>
  <li>HTML</li>
  <li>CSS</li>
